@@ -5,6 +5,7 @@
     <string name="to_frag2"><![CDATA[-> frag2]]></string>
     <string name="to_frag3"><![CDATA[-> frag3]]></string>
     <string name="to_frag4"><![CDATA[-> frag4]]></string>
+    <string name="to_frag6"><![CDATA[-> frag6]]></string>
     <string name="fragment2">Fragment2</string>
     <string name="to_act2"><![CDATA[-> act2]]></string>
     <string name="arrow_back"><![CDATA[<-]]></string>
@@ -20,4 +21,6 @@
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="email">Email</string>
+    <string name="fragment6">Fragment6</string>
+    <string name="back">Back</string>
 </resources>

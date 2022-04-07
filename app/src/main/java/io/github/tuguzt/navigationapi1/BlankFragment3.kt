@@ -21,7 +21,7 @@ class BlankFragment3 : Fragment() {
         _binding = FragmentBlank3Binding.inflate(inflater, container, false)
 
         binding.button4.setOnClickListener {
-            it.findNavController().navigate(R.id.action_blankFragment3_to_main2Activity)
+            it.findNavController().navigate(R.id.action_blankFragment3_to_blankFragment6)
         }
         binding.button4Back.setOnClickListener {
             it.findNavController().popBackStack()

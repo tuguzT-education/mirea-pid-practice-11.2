@@ -38,8 +38,8 @@
         android:label="fragment3"
         tools:layout="@layout/fragment_blank3" >
         <action
-            android:id="@+id/action_blankFragment3_to_main2Activity"
-            app:destination="@id/main2Activity" />
+            android:id="@+id/action_blankFragment3_to_blankFragment6"
+            app:destination="@id/blankFragment6" />
     </fragment>
 
     <fragment
@@ -66,5 +66,11 @@
         android:name="io.github.tuguzt.navigationapi1.SecondActivity"
         android:label="app_bar_main2"
         tools:layout="@layout/activity_second" />
+
+    <fragment
+        android:id="@+id/blankFragment6"
+        android:name="io.github.tuguzt.navigationapi1.BlankFragment6"
+        android:label="fragment_blank6"
+        tools:layout="@layout/fragment_blank6" />
 
 </navigation>
