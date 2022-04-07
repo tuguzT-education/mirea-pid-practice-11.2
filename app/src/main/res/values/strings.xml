@@ -1,3 +1,23 @@
-<resources>
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Navigation API 1</string>
+    <string name="fragment1" tools:ignore="Typos">Fragment1</string>
+    <string name="to_frag2"><![CDATA[-> frag2]]></string>
+    <string name="to_frag3"><![CDATA[-> frag3]]></string>
+    <string name="to_frag4"><![CDATA[-> frag4]]></string>
+    <string name="fragment2">Fragment2</string>
+    <string name="to_act2"><![CDATA[-> act2]]></string>
+    <string name="arrow_back"><![CDATA[<-]]></string>
+    <string name="fragment3">Fragment3</string>
+    <string name="fragment4">Fragment4</string>
+    <string name="enter_text">Enter text</string>
+    <string name="fragment5">Fragment5</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="email">Email</string>
 </resources>
